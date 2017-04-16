@@ -1,0 +1,25 @@
+1. install lite-server
+2. install typings typescript
+3. 
+
+
+
+
+
+
+
+
+• es6-shim - (for older browsers)
+ES6 provides shims so that legacy JavaScript engines behave as closely as possible to ECMAScript 6.
+This shim isn’t strictly needed for newer versions of Safari, Chrome, etc. but it is required for older
+versions of IE
+
+
+• angular2-polyfills
+
+
+• SystemJS----------
+Provide Loaders
+
+• RxJS--Reactive extensions for javascript.
+
